@@ -1,0 +1,6 @@
+*.zip
+*.log
+/Plan/
+/AGENTS.md
+/input/
+/output/
